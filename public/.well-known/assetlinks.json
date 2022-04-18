@@ -3,7 +3,7 @@
     "relation": ["delegate_permission/common.handle_all_urls"],
     "target": { 
       "namespace": "android_app",
-      "package_name": "app.uuidgenerator.jl.com",
+      "package_name": "app.gen_colors_jl.com",
       "sha256_cert_fingerprints": ["B5:84:67:66:09:25:37:C6:78:7E:10:5D:2D:8A:59:17:51:BD:8E:87:A6:D8:C6:6E:E5:3B:02:64:B8:91:CB:2C"] 
     }
   }
